@@ -8,6 +8,9 @@ level: 0
 region: Europe
 
 auto-migrated: 1
+meetup-group: SkopjeSec-Macedonians-Monthly-Security-Professional-Meetup
+country: Macedonia
+postal-code: 
 
 ---
 
