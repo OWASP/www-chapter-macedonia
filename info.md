@@ -2,5 +2,5 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](https://www.meetup.com/SkopjeSec-Macedonians-Monthly-Security-Professional-Meetup/)
+* [Meetup](https://www.meetup.com/OWASP-Macedonia/)
 * [Social Link]
