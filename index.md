@@ -8,7 +8,7 @@ level: 0
 region: Europe
 
 auto-migrated: 1
-meetup-group: SkopjeSec-Macedonians-Monthly-Security-Professional-Meetup
+meetup-group: OWASP-Macedonia
 country: Macedonia
 postal-code: 
 
